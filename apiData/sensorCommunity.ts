@@ -1,3 +1,5 @@
+import {airGradientData} from "./airGradient";
+
 export interface location {
     id: number;
     latitude: string;
